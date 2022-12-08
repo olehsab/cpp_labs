@@ -1,0 +1,12 @@
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\bin\Debug\net6.0\LabExecution.deps.json
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\bin\Debug\net6.0\LabExecution.dll
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\bin\Debug\net6.0\LabExecution.pdb
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\obj\Debug\net6.0\LabExecution.csproj.AssemblyReference.cache
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\obj\Debug\net6.0\LabExecution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\obj\Debug\net6.0\LabExecution.AssemblyInfoInputs.cache
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\obj\Debug\net6.0\LabExecution.AssemblyInfo.cs
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\obj\Debug\net6.0\LabExecution.csproj.CoreCompileInputs.cache
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\obj\Debug\net6.0\LabExecution.dll
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\obj\Debug\net6.0\refint\LabExecution.dll
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\obj\Debug\net6.0\LabExecution.pdb
+C:\Users\Vasily\RiderProjects\Lab4\LabExecution\obj\Debug\net6.0\ref\LabExecution.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y6K1dIyJTU94PD2G99FvGoXlKr4407b/x0fuz+O+Qn7KKg+VOMmPbFRuV/YTIUDMj5oBEj/foCaPRuleq7g6dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vasily\\RiderProjects\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vasily\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.2\\mcmaster.extensions.commandlineutils.4.0.2.nupkg.sha512",
+    "C:\\Users\\Vasily\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
